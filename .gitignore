@@ -1,0 +1,20 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.so
+.Python
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+refactoring_report.md" > .gitignore
